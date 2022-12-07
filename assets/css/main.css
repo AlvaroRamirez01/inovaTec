@@ -2184,6 +2184,11 @@ div.infografia h2.infografia {
   font-weight: bolder;
 }
 
+h2.presentacion {
+  text-align: center;
+  font-weight: bolder;
+}
+
 div.infografia img {
   width: 75%;
   padding-left: 300px;
